@@ -1,0 +1,1737 @@
+[
+  {
+    "title": "静夜思",
+    "author": "李白",
+    "dynasty": "唐代",
+    "content": "床前明月光，疑是地上霜。举头望明月，低头思故乡。",
+    "genre": "五言绝句",
+    "url": "https://www.gushiwen.cn/shiwenv_9b8e95f39c0a.aspx",
+    "imagery": [
+      "月",
+      "思",
+      "霜",
+      "夜",
+      "望"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "月",
+        "思",
+        "霜",
+        "夜",
+        "望"
+      ],
+      "imagery_counts": {
+        "月": 2,
+        "霜": 1,
+        "夜": 1,
+        "思": 2,
+        "望": 1
+      },
+      "main_categories": [
+        "天文",
+        "时间",
+        "情感相关"
+      ],
+      "category_counts": {
+        "天文": 3,
+        "时间": 3,
+        "情感相关": 3
+      }
+    },
+    "main_emotions": [
+      "思乡怀人",
+      "爱情婚姻",
+      "闲适愉悦"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "思乡怀人",
+        "爱情婚姻",
+        "闲适愉悦"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 5,
+        "壮志豪情": 0,
+        "感慨伤怀": 0,
+        "闲适愉悦": 1,
+        "山水田园": 0,
+        "边塞战争": 0,
+        "咏史怀古": 0,
+        "爱情婚姻": 3
+      },
+      "valid_emotions": {
+        "思乡怀人": 5,
+        "闲适愉悦": 1,
+        "爱情婚姻": 3
+      },
+      "emotion_keywords": {
+        "思乡怀人": {
+          "乡": 1,
+          "思": 2,
+          "望": 1,
+          "故": 1
+        },
+        "闲适愉悦": {
+          "静": 1
+        },
+        "爱情婚姻": {
+          "思": 2,
+          "望": 1
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "望庐山瀑布",
+    "author": "李白",
+    "dynasty": "唐代",
+    "content": "日照香炉生紫烟，遥看瀑布挂前川。飞流直下三千尺，疑是银河落九天。",
+    "genre": "七言绝句",
+    "url": "https://www.gushiwen.cn/shiwenv_653a968147a5.aspx",
+    "imagery": [
+      "瀑",
+      "日",
+      "银河",
+      "山",
+      "河"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "瀑",
+        "日",
+        "银河",
+        "山",
+        "河"
+      ],
+      "imagery_counts": {
+        "日": 1,
+        "银河": 1,
+        "山": 1,
+        "河": 1,
+        "瀑": 2,
+        "望": 1
+      },
+      "main_categories": [
+        "地理",
+        "天文",
+        "时间"
+      ],
+      "category_counts": {
+        "天文": 2,
+        "地理": 4,
+        "时间": 1,
+        "情感相关": 1
+      }
+    },
+    "main_emotions": [
+      "山水田园",
+      "思乡怀人",
+      "爱情婚姻"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "山水田园",
+        "思乡怀人",
+        "爱情婚姻"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 1,
+        "壮志豪情": 0,
+        "感慨伤怀": 0,
+        "闲适愉悦": 0,
+        "山水田园": 2,
+        "边塞战争": 0,
+        "咏史怀古": 0,
+        "爱情婚姻": 1
+      },
+      "valid_emotions": {
+        "思乡怀人": 1,
+        "山水田园": 2,
+        "爱情婚姻": 1
+      },
+      "emotion_keywords": {
+        "思乡怀人": {
+          "望": 1
+        },
+        "山水田园": {
+          "山": 1,
+          "烟": 1
+        },
+        "爱情婚姻": {
+          "望": 1
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "黄鹤楼送孟浩然之广陵",
+    "author": "李白",
+    "dynasty": "唐代",
+    "content": "故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流。",
+    "genre": "七言绝句",
+    "url": "https://www.gushiwen.cn/shiwenv_2f74d036a3be.aspx",
+    "imagery": [
+      "鹤",
+      "楼",
+      "月",
+      "江",
+      "花"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "鹤",
+        "楼",
+        "月",
+        "江",
+        "花"
+      ],
+      "imagery_counts": {
+        "月": 1,
+        "江": 1,
+        "花": 1,
+        "鹤": 2,
+        "楼": 2
+      },
+      "main_categories": [
+        "动物",
+        "建筑",
+        "天文"
+      ],
+      "category_counts": {
+        "天文": 1,
+        "地理": 1,
+        "植物": 1,
+        "动物": 2,
+        "建筑": 2,
+        "时间": 1
+      }
+    },
+    "main_emotions": [
+      "思乡怀人",
+      "感慨伤怀",
+      "闲适愉悦"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "思乡怀人",
+        "感慨伤怀",
+        "闲适愉悦"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 2,
+        "壮志豪情": 0,
+        "感慨伤怀": 1,
+        "闲适愉悦": 1,
+        "山水田园": 1,
+        "边塞战争": 0,
+        "咏史怀古": 0,
+        "爱情婚姻": 0
+      },
+      "valid_emotions": {
+        "思乡怀人": 2,
+        "感慨伤怀": 1,
+        "闲适愉悦": 1,
+        "山水田园": 1
+      },
+      "emotion_keywords": {
+        "思乡怀人": {
+          "故": 1,
+          "远": 1
+        },
+        "感慨伤怀": {
+          "孤": 1
+        },
+        "闲适愉悦": {
+          "然": 1
+        },
+        "山水田园": {
+          "烟": 1
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "望天门山",
+    "author": "李白",
+    "dynasty": "唐代",
+    "content": "天门中断楚江开，碧水东流至此回。两岸青山相对出，孤帆一片日边来。",
+    "genre": "七言绝句",
+    "url": "https://www.gushiwen.cn/shiwenv_7d404379a10a.aspx",
+    "imagery": [
+      "山",
+      "门",
+      "日",
+      "水",
+      "江"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "山",
+        "门",
+        "日",
+        "水",
+        "江"
+      ],
+      "imagery_counts": {
+        "日": 1,
+        "山": 2,
+        "水": 1,
+        "江": 1,
+        "岸": 1,
+        "门": 2,
+        "望": 1
+      },
+      "main_categories": [
+        "地理",
+        "建筑",
+        "天文"
+      ],
+      "category_counts": {
+        "天文": 1,
+        "地理": 5,
+        "建筑": 2,
+        "时间": 1,
+        "情感相关": 1
+      }
+    },
+    "main_emotions": [
+      "山水田园",
+      "思乡怀人",
+      "感慨伤怀"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "山水田园",
+        "思乡怀人",
+        "感慨伤怀"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 1,
+        "壮志豪情": 0,
+        "感慨伤怀": 1,
+        "闲适愉悦": 0,
+        "山水田园": 3,
+        "边塞战争": 1,
+        "咏史怀古": 0,
+        "爱情婚姻": 1
+      },
+      "valid_emotions": {
+        "思乡怀人": 1,
+        "感慨伤怀": 1,
+        "山水田园": 3,
+        "边塞战争": 1,
+        "爱情婚姻": 1
+      },
+      "emotion_keywords": {
+        "思乡怀人": {
+          "望": 1
+        },
+        "感慨伤怀": {
+          "孤": 1
+        },
+        "山水田园": {
+          "山": 2,
+          "水": 1
+        },
+        "边塞战争": {
+          "边": 1
+        },
+        "爱情婚姻": {
+          "望": 1
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "春望",
+    "author": "杜甫",
+    "dynasty": "唐代",
+    "content": "国破山河在，城春草木深。感时花溅泪，恨别鸟惊心。烽火连三月，家书抵万金。白头搔更短，浑欲不胜簪。",
+    "genre": "五言律诗",
+    "url": "https://www.gushiwen.cn/shiwenv_7af80f457745.aspx",
+    "imagery": [
+      "春",
+      "月",
+      "山",
+      "河",
+      "花"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "春",
+        "月",
+        "山",
+        "河",
+        "花"
+      ],
+      "imagery_counts": {
+        "月": 1,
+        "山": 1,
+        "河": 1,
+        "花": 1,
+        "草": 1,
+        "木": 1,
+        "鸟": 1,
+        "书": 1,
+        "春": 2,
+        "时": 1,
+        "泪": 1,
+        "恨": 1,
+        "望": 1,
+        "别": 1
+      },
+      "main_categories": [
+        "时间",
+        "情感相关",
+        "植物"
+      ],
+      "category_counts": {
+        "天文": 1,
+        "地理": 2,
+        "植物": 3,
+        "动物": 1,
+        "器物": 1,
+        "时间": 4,
+        "情感相关": 4
+      }
+    },
+    "main_emotions": [
+      "感慨伤怀",
+      "思乡怀人",
+      "爱情婚姻"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "感慨伤怀",
+        "思乡怀人",
+        "爱情婚姻"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 2,
+        "壮志豪情": 1,
+        "感慨伤怀": 3,
+        "闲适愉悦": 0,
+        "山水田园": 1,
+        "边塞战争": 0,
+        "咏史怀古": 0,
+        "爱情婚姻": 2
+      },
+      "valid_emotions": {
+        "思乡怀人": 2,
+        "壮志豪情": 1,
+        "感慨伤怀": 3,
+        "山水田园": 1,
+        "爱情婚姻": 2
+      },
+      "emotion_keywords": {
+        "思乡怀人": {
+          "望": 1,
+          "别": 1
+        },
+        "壮志豪情": {
+          "国": 1
+        },
+        "感慨伤怀": {
+          "感": 1,
+          "恨": 1,
+          "泪": 1
+        },
+        "山水田园": {
+          "山": 1
+        },
+        "爱情婚姻": {
+          "望": 1,
+          "心": 1
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "登高",
+    "author": "杜甫",
+    "dynasty": "唐代",
+    "content": "风急天高猿啸哀，渚清沙白鸟飞回。无边落木萧萧下，不尽长江滚滚来。万里悲秋常作客，百年多病独登台。艰难苦恨繁霜鬓，潦倒新停浊酒杯。",
+    "genre": "七言律诗",
+    "url": "https://www.gushiwen.cn/shiwenv_24c3b3a831a7.aspx",
+    "imagery": [
+      "霜",
+      "风",
+      "江",
+      "渚",
+      "木"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "霜",
+        "风",
+        "江",
+        "渚",
+        "木"
+      ],
+      "imagery_counts": {
+        "霜": 1,
+        "风": 1,
+        "江": 1,
+        "渚": 1,
+        "木": 1,
+        "鸟": 1,
+        "猿": 1,
+        "酒": 1,
+        "台": 1,
+        "秋": 1,
+        "年": 1,
+        "恨": 1
+      },
+      "main_categories": [
+        "天文",
+        "地理",
+        "动物"
+      ],
+      "category_counts": {
+        "天文": 2,
+        "地理": 2,
+        "植物": 1,
+        "动物": 2,
+        "器物": 1,
+        "建筑": 1,
+        "时间": 2,
+        "情感相关": 1
+      }
+    },
+    "main_emotions": [
+      "感慨伤怀",
+      "思乡怀人",
+      "边塞战争"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "感慨伤怀",
+        "思乡怀人",
+        "边塞战争"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 1,
+        "壮志豪情": 0,
+        "感慨伤怀": 5,
+        "闲适愉悦": 0,
+        "山水田园": 0,
+        "边塞战争": 1,
+        "咏史怀古": 0,
+        "爱情婚姻": 0
+      },
+      "valid_emotions": {
+        "思乡怀人": 1,
+        "感慨伤怀": 5,
+        "边塞战争": 1
+      },
+      "emotion_keywords": {
+        "思乡怀人": {
+          "客": 1
+        },
+        "感慨伤怀": {
+          "悲": 1,
+          "哀": 1,
+          "苦": 1,
+          "恨": 1,
+          "独": 1
+        },
+        "边塞战争": {
+          "边": 1
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "绝句",
+    "author": "杜甫",
+    "dynasty": "唐代",
+    "content": "两个黄鹂鸣翠柳，一行白鹭上青天。窗含西岭千秋雪，门泊东吴万里船。",
+    "genre": "七言绝句",
+    "url": "https://www.gushiwen.cn/shiwenv_1e32f9115c1d.aspx",
+    "imagery": [
+      "雪",
+      "岭",
+      "柳",
+      "黄鹂",
+      "窗"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "雪",
+        "岭",
+        "柳",
+        "黄鹂",
+        "窗"
+      ],
+      "imagery_counts": {
+        "雪": 1,
+        "岭": 1,
+        "柳": 1,
+        "黄鹂": 1,
+        "窗": 1,
+        "门": 1,
+        "船": 1,
+        "秋": 1
+      },
+      "main_categories": [
+        "建筑",
+        "天文",
+        "地理"
+      ],
+      "category_counts": {
+        "天文": 1,
+        "地理": 1,
+        "植物": 1,
+        "动物": 1,
+        "建筑": 3,
+        "时间": 1
+      }
+    },
+    "main_emotions": [],
+    "emotion_details": {
+      "main_emotions": [],
+      "emotion_scores": {
+        "思乡怀人": 0,
+        "壮志豪情": 0,
+        "感慨伤怀": 0,
+        "闲适愉悦": 0,
+        "山水田园": 0,
+        "边塞战争": 0,
+        "咏史怀古": 0,
+        "爱情婚姻": 0
+      },
+      "valid_emotions": {},
+      "emotion_keywords": {},
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "赠汪伦",
+    "author": "李白",
+    "dynasty": "唐代",
+    "content": "李白乘舟将欲行，忽闻岸上踏歌声。桃花潭水深千尺，不及汪伦送我情。",
+    "genre": "七言绝句",
+    "url": "https://www.gushiwen.cn/shiwenv_f59a8c858d2c.aspx",
+    "imagery": [
+      "水",
+      "岸",
+      "花",
+      "桃",
+      "李"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "水",
+        "岸",
+        "花",
+        "桃",
+        "李"
+      ],
+      "imagery_counts": {
+        "水": 1,
+        "岸": 1,
+        "花": 1,
+        "桃": 1,
+        "李": 1,
+        "舟": 1,
+        "情": 1
+      },
+      "main_categories": [
+        "植物",
+        "地理",
+        "建筑"
+      ],
+      "category_counts": {
+        "地理": 2,
+        "植物": 3,
+        "建筑": 1,
+        "情感相关": 1
+      }
+    },
+    "main_emotions": [
+      "爱情婚姻",
+      "思乡怀人",
+      "山水田园"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "爱情婚姻",
+        "思乡怀人",
+        "山水田园"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 1,
+        "壮志豪情": 0,
+        "感慨伤怀": 0,
+        "闲适愉悦": 0,
+        "山水田园": 1,
+        "边塞战争": 0,
+        "咏史怀古": 0,
+        "爱情婚姻": 2
+      },
+      "valid_emotions": {
+        "思乡怀人": 1,
+        "山水田园": 1,
+        "爱情婚姻": 2
+      },
+      "emotion_keywords": {
+        "思乡怀人": {
+          "情": 1
+        },
+        "山水田园": {
+          "水": 1
+        },
+        "爱情婚姻": {
+          "情": 2
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "清明",
+    "author": "杜牧",
+    "dynasty": "唐代",
+    "content": "清明时节雨纷纷，路上行人欲断魂。借问酒家何处有？牧童遥指杏花村。",
+    "genre": "七言绝句",
+    "url": "https://www.gushiwen.cn/shiwenv_9d2fc3509ee3.aspx",
+    "imagery": [
+      "雨",
+      "花",
+      "杏",
+      "酒",
+      "路"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "雨",
+        "花",
+        "杏",
+        "酒",
+        "路"
+      ],
+      "imagery_counts": {
+        "雨": 1,
+        "花": 1,
+        "杏": 1,
+        "酒": 1,
+        "路": 1,
+        "时": 1,
+        "魂": 1
+      },
+      "main_categories": [
+        "植物",
+        "天文",
+        "器物"
+      ],
+      "category_counts": {
+        "天文": 1,
+        "植物": 2,
+        "器物": 1,
+        "建筑": 1,
+        "时间": 1,
+        "情感相关": 1
+      }
+    },
+    "main_emotions": [
+      "山水田园",
+      "思乡怀人",
+      "壮志豪情"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "山水田园",
+        "思乡怀人",
+        "壮志豪情"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 1,
+        "壮志豪情": 1,
+        "感慨伤怀": 0,
+        "闲适愉悦": 0,
+        "山水田园": 2,
+        "边塞战争": 0,
+        "咏史怀古": 0,
+        "爱情婚姻": 0
+      },
+      "valid_emotions": {
+        "思乡怀人": 1,
+        "壮志豪情": 1,
+        "山水田园": 2
+      },
+      "emotion_keywords": {
+        "思乡怀人": {
+          "魂": 1
+        },
+        "壮志豪情": {
+          "节": 1
+        },
+        "山水田园": {
+          "村": 1,
+          "牧": 1
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "赤壁",
+    "author": "杜牧",
+    "dynasty": "唐代",
+    "content": "折戟沉沙铁未销，自将磨洗认前朝。东风不与周郎便，铜雀春深锁二乔。",
+    "genre": "七言绝句",
+    "url": "https://www.gushiwen.cn/shiwenv_a637dd08497e.aspx",
+    "imagery": [
+      "风",
+      "春",
+      "朝"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "风",
+        "春",
+        "朝"
+      ],
+      "imagery_counts": {
+        "风": 1,
+        "春": 1,
+        "朝": 1
+      },
+      "main_categories": [
+        "时间",
+        "天文"
+      ],
+      "category_counts": {
+        "天文": 1,
+        "时间": 2
+      }
+    },
+    "main_emotions": [
+      "爱情婚姻"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "爱情婚姻"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 0,
+        "壮志豪情": 0,
+        "感慨伤怀": 0,
+        "闲适愉悦": 0,
+        "山水田园": 0,
+        "边塞战争": 0,
+        "咏史怀古": 0,
+        "爱情婚姻": 1
+      },
+      "valid_emotions": {
+        "爱情婚姻": 1
+      },
+      "emotion_keywords": {
+        "爱情婚姻": {
+          "郎": 1
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "山居秋暝",
+    "author": "王维",
+    "dynasty": "唐代",
+    "content": "空山新雨后，天气晚来秋。明月松间照，清泉石上流。竹喧归浣女，莲动下渔舟。随意春芳歇，王孙自可留。",
+    "genre": "五言律诗",
+    "url": "https://www.gushiwen.cn/shiwenv_790f29c68f13.aspx",
+    "imagery": [
+      "山",
+      "秋",
+      "月",
+      "雨",
+      "泉"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "山",
+        "秋",
+        "月",
+        "雨",
+        "泉"
+      ],
+      "imagery_counts": {
+        "月": 1,
+        "雨": 1,
+        "山": 2,
+        "泉": 1,
+        "石": 1,
+        "竹": 1,
+        "莲": 1,
+        "松": 1,
+        "舟": 1,
+        "春": 1,
+        "秋": 2,
+        "归": 1
+      },
+      "main_categories": [
+        "地理",
+        "时间",
+        "植物"
+      ],
+      "category_counts": {
+        "天文": 2,
+        "地理": 4,
+        "植物": 3,
+        "建筑": 1,
+        "时间": 4,
+        "情感相关": 1
+      }
+    },
+    "main_emotions": [
+      "山水田园",
+      "爱情婚姻",
+      "思乡怀人"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "山水田园",
+        "爱情婚姻",
+        "思乡怀人"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 1,
+        "壮志豪情": 1,
+        "感慨伤怀": 0,
+        "闲适愉悦": 0,
+        "山水田园": 5,
+        "边塞战争": 0,
+        "咏史怀古": 0,
+        "爱情婚姻": 2
+      },
+      "valid_emotions": {
+        "思乡怀人": 1,
+        "壮志豪情": 1,
+        "山水田园": 5,
+        "爱情婚姻": 2
+      },
+      "emotion_keywords": {
+        "思乡怀人": {
+          "归": 1
+        },
+        "壮志豪情": {
+          "气": 1
+        },
+        "山水田园": {
+          "山": 2,
+          "渔": 1,
+          "泉": 1,
+          "石": 1
+        },
+        "爱情婚姻": {
+          "女": 1,
+          "意": 1
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "使至塞上",
+    "author": "王维",
+    "dynasty": "唐代",
+    "content": "单车欲问边，属国过居延。征蓬出汉塞，归雁入胡天。大漠孤烟直，长河落日圆。萧关逢候骑，都护在燕然。",
+    "genre": "五言律诗",
+    "url": "https://www.gushiwen.cn/shiwenv_f2205bf8b413.aspx",
+    "imagery": [
+      "日",
+      "河",
+      "雁",
+      "燕",
+      "归"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "日",
+        "河",
+        "雁",
+        "燕",
+        "归"
+      ],
+      "imagery_counts": {
+        "日": 1,
+        "河": 1,
+        "雁": 1,
+        "燕": 1,
+        "归": 1
+      },
+      "main_categories": [
+        "动物",
+        "天文",
+        "地理"
+      ],
+      "category_counts": {
+        "天文": 1,
+        "地理": 1,
+        "动物": 2,
+        "时间": 1,
+        "情感相关": 1
+      }
+    },
+    "main_emotions": [
+      "边塞战争",
+      "思乡怀人",
+      "壮志豪情"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "边塞战争",
+        "思乡怀人",
+        "壮志豪情"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 1,
+        "壮志豪情": 1,
+        "感慨伤怀": 1,
+        "闲适愉悦": 1,
+        "山水田园": 1,
+        "边塞战争": 4,
+        "咏史怀古": 0,
+        "爱情婚姻": 0
+      },
+      "valid_emotions": {
+        "思乡怀人": 1,
+        "壮志豪情": 1,
+        "感慨伤怀": 1,
+        "闲适愉悦": 1,
+        "山水田园": 1,
+        "边塞战争": 4
+      },
+      "emotion_keywords": {
+        "思乡怀人": {
+          "归": 1
+        },
+        "壮志豪情": {
+          "国": 1
+        },
+        "感慨伤怀": {
+          "孤": 1
+        },
+        "闲适愉悦": {
+          "然": 1
+        },
+        "山水田园": {
+          "烟": 1
+        },
+        "边塞战争": {
+          "边": 1,
+          "塞": 2,
+          "征": 1
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "九月九日忆山东兄弟",
+    "author": "王维",
+    "dynasty": "唐代",
+    "content": "独在异乡为异客，每逢佳节倍思亲。遥知兄弟登高处，遍插茱萸少一人。",
+    "genre": "七言绝句",
+    "url": "https://www.gushiwen.cn/shiwenv_40015222e381.aspx",
+    "imagery": [
+      "日",
+      "月",
+      "山",
+      "思",
+      "忆"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "日",
+        "月",
+        "山",
+        "思",
+        "忆"
+      ],
+      "imagery_counts": {
+        "日": 1,
+        "月": 1,
+        "山": 1,
+        "思": 1,
+        "忆": 1
+      },
+      "main_categories": [
+        "天文",
+        "时间",
+        "情感相关"
+      ],
+      "category_counts": {
+        "天文": 2,
+        "地理": 1,
+        "时间": 2,
+        "情感相关": 2
+      }
+    },
+    "main_emotions": [
+      "思乡怀人",
+      "爱情婚姻",
+      "壮志豪情"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "思乡怀人",
+        "爱情婚姻",
+        "壮志豪情"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 4,
+        "壮志豪情": 1,
+        "感慨伤怀": 1,
+        "闲适愉悦": 0,
+        "山水田园": 1,
+        "边塞战争": 0,
+        "咏史怀古": 0,
+        "爱情婚姻": 2
+      },
+      "valid_emotions": {
+        "思乡怀人": 4,
+        "壮志豪情": 1,
+        "感慨伤怀": 1,
+        "山水田园": 1,
+        "爱情婚姻": 2
+      },
+      "emotion_keywords": {
+        "思乡怀人": {
+          "乡": 1,
+          "忆": 1,
+          "思": 1,
+          "客": 1
+        },
+        "壮志豪情": {
+          "节": 1
+        },
+        "感慨伤怀": {
+          "独": 1
+        },
+        "山水田园": {
+          "山": 1
+        },
+        "爱情婚姻": {
+          "思": 1,
+          "忆": 1
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "送元二使安西",
+    "author": "王维",
+    "dynasty": "唐代",
+    "content": "渭城朝雨浥轻尘，客舍青青柳色新。劝君更尽一杯酒，西出阳关无故人。",
+    "genre": "七言绝句",
+    "url": "https://www.gushiwen.cn/shiwenv_a136b61d6376.aspx",
+    "imagery": [
+      "雨",
+      "柳",
+      "酒",
+      "朝"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "雨",
+        "柳",
+        "酒",
+        "朝"
+      ],
+      "imagery_counts": {
+        "雨": 1,
+        "柳": 1,
+        "酒": 1,
+        "朝": 1
+      },
+      "main_categories": [
+        "天文",
+        "植物",
+        "器物"
+      ],
+      "category_counts": {
+        "天文": 1,
+        "植物": 1,
+        "器物": 1,
+        "时间": 1
+      }
+    },
+    "main_emotions": [
+      "思乡怀人",
+      "壮志豪情",
+      "闲适愉悦"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "思乡怀人",
+        "壮志豪情",
+        "闲适愉悦"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 2,
+        "壮志豪情": 1,
+        "感慨伤怀": 0,
+        "闲适愉悦": 1,
+        "山水田园": 0,
+        "边塞战争": 0,
+        "咏史怀古": 0,
+        "爱情婚姻": 0
+      },
+      "valid_emotions": {
+        "思乡怀人": 2,
+        "壮志豪情": 1,
+        "闲适愉悦": 1
+      },
+      "emotion_keywords": {
+        "思乡怀人": {
+          "故": 1,
+          "客": 1
+        },
+        "壮志豪情": {
+          "安": 1
+        },
+        "闲适愉悦": {
+          "安": 1
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "早发白帝城",
+    "author": "李白",
+    "dynasty": "唐代",
+    "content": "朝辞白帝彩云间，千里江陵一日还。两岸猿声啼不住，轻舟已过万重山。",
+    "genre": "七言绝句",
+    "url": "https://www.gushiwen.cn/shiwenv_21d0d83ba99a.aspx",
+    "imagery": [
+      "日",
+      "云",
+      "山",
+      "江",
+      "岸"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "日",
+        "云",
+        "山",
+        "江",
+        "岸"
+      ],
+      "imagery_counts": {
+        "日": 1,
+        "云": 1,
+        "山": 1,
+        "江": 1,
+        "岸": 1,
+        "猿": 1,
+        "舟": 1,
+        "朝": 1
+      },
+      "main_categories": [
+        "地理",
+        "天文",
+        "时间"
+      ],
+      "category_counts": {
+        "天文": 2,
+        "地理": 3,
+        "动物": 1,
+        "建筑": 1,
+        "时间": 2
+      }
+    },
+    "main_emotions": [
+      "山水田园"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "山水田园"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 0,
+        "壮志豪情": 0,
+        "感慨伤怀": 0,
+        "闲适愉悦": 0,
+        "山水田园": 2,
+        "边塞战争": 0,
+        "咏史怀古": 0,
+        "爱情婚姻": 0
+      },
+      "valid_emotions": {
+        "山水田园": 2
+      },
+      "emotion_keywords": {
+        "山水田园": {
+          "山": 1,
+          "云": 1
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "望洞庭",
+    "author": "刘禹锡",
+    "dynasty": "唐代",
+    "content": "湖光秋月两相和，潭面无风镜未磨。遥望洞庭山水翠，白银盘里一青螺。",
+    "genre": "七言绝句",
+    "url": "https://www.gushiwen.cn/shiwenv_22cf6a232b37.aspx",
+    "imagery": [
+      "望",
+      "月",
+      "风",
+      "山",
+      "水"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "望",
+        "月",
+        "风",
+        "山",
+        "水"
+      ],
+      "imagery_counts": {
+        "月": 1,
+        "风": 1,
+        "山": 1,
+        "水": 1,
+        "湖": 1,
+        "镜": 1,
+        "秋": 1,
+        "望": 2
+      },
+      "main_categories": [
+        "地理",
+        "天文",
+        "时间"
+      ],
+      "category_counts": {
+        "天文": 2,
+        "地理": 3,
+        "器物": 1,
+        "时间": 2,
+        "情感相关": 2
+      }
+    },
+    "main_emotions": [
+      "思乡怀人",
+      "山水田园",
+      "爱情婚姻"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "思乡怀人",
+        "山水田园",
+        "爱情婚姻"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 2,
+        "壮志豪情": 0,
+        "感慨伤怀": 0,
+        "闲适愉悦": 0,
+        "山水田园": 2,
+        "边塞战争": 0,
+        "咏史怀古": 0,
+        "爱情婚姻": 2
+      },
+      "valid_emotions": {
+        "思乡怀人": 2,
+        "山水田园": 2,
+        "爱情婚姻": 2
+      },
+      "emotion_keywords": {
+        "思乡怀人": {
+          "望": 2
+        },
+        "山水田园": {
+          "山": 1,
+          "水": 1
+        },
+        "爱情婚姻": {
+          "望": 2
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "乌衣巷",
+    "author": "刘禹锡",
+    "dynasty": "唐代",
+    "content": "朱雀桥边野草花，乌衣巷口夕阳斜。旧时王谢堂前燕，飞入寻常百姓家。",
+    "genre": "七言绝句",
+    "url": "https://www.gushiwen.cn/shiwenv_4c09b613786d.aspx",
+    "imagery": [
+      "夕阳",
+      "野",
+      "花",
+      "草",
+      "燕"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "夕阳",
+        "野",
+        "花",
+        "草",
+        "燕"
+      ],
+      "imagery_counts": {
+        "夕阳": 1,
+        "野": 1,
+        "花": 1,
+        "草": 1,
+        "燕": 1,
+        "桥": 1,
+        "时": 1
+      },
+      "main_categories": [
+        "植物",
+        "天文",
+        "地理"
+      ],
+      "category_counts": {
+        "天文": 1,
+        "地理": 1,
+        "植物": 2,
+        "动物": 1,
+        "建筑": 1,
+        "时间": 1
+      }
+    },
+    "main_emotions": [
+      "思乡怀人",
+      "山水田园",
+      "边塞战争"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "思乡怀人",
+        "山水田园",
+        "边塞战争"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 1,
+        "壮志豪情": 0,
+        "感慨伤怀": 0,
+        "闲适愉悦": 0,
+        "山水田园": 1,
+        "边塞战争": 1,
+        "咏史怀古": 1,
+        "爱情婚姻": 0
+      },
+      "valid_emotions": {
+        "思乡怀人": 1,
+        "山水田园": 1,
+        "边塞战争": 1,
+        "咏史怀古": 1
+      },
+      "emotion_keywords": {
+        "思乡怀人": {
+          "旧": 1
+        },
+        "山水田园": {
+          "野": 1
+        },
+        "边塞战争": {
+          "边": 1
+        },
+        "咏史怀古": {
+          "旧": 1
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "赋得古原草送别",
+    "author": "白居易",
+    "dynasty": "唐代",
+    "content": "离离原上草，一岁一枯荣。野火烧不尽，春风吹又生。远芳侵古道，晴翠接荒城。又送王孙去，萋萋满别情。",
+    "genre": "五言律诗",
+    "url": "https://www.gushiwen.cn/shiwenv_4e8b509c7f04.aspx",
+    "imagery": [
+      "原",
+      "草",
+      "别",
+      "离",
+      "风"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "原",
+        "草",
+        "别",
+        "离",
+        "风"
+      ],
+      "imagery_counts": {
+        "风": 1,
+        "原": 2,
+        "野": 1,
+        "草": 2,
+        "春": 1,
+        "岁": 1,
+        "别": 2,
+        "离": 2,
+        "情": 1
+      },
+      "main_categories": [
+        "情感相关",
+        "地理",
+        "植物"
+      ],
+      "category_counts": {
+        "天文": 1,
+        "地理": 3,
+        "植物": 2,
+        "时间": 2,
+        "情感相关": 5
+      }
+    },
+    "main_emotions": [
+      "思乡怀人",
+      "咏史怀古",
+      "爱情婚姻"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "思乡怀人",
+        "咏史怀古",
+        "爱情婚姻"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 6,
+        "壮志豪情": 0,
+        "感慨伤怀": 0,
+        "闲适愉悦": 0,
+        "山水田园": 1,
+        "边塞战争": 0,
+        "咏史怀古": 3,
+        "爱情婚姻": 2
+      },
+      "valid_emotions": {
+        "思乡怀人": 6,
+        "山水田园": 1,
+        "咏史怀古": 3,
+        "爱情婚姻": 2
+      },
+      "emotion_keywords": {
+        "思乡怀人": {
+          "远": 1,
+          "离": 2,
+          "别": 2,
+          "情": 1
+        },
+        "山水田园": {
+          "野": 1
+        },
+        "咏史怀古": {
+          "古": 2,
+          "荣": 1
+        },
+        "爱情婚姻": {
+          "情": 2
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "大林寺桃花",
+    "author": "白居易",
+    "dynasty": "唐代",
+    "content": "人间四月芳菲尽，山寺桃花始盛开。长恨春归无觅处，不知转入此中来。",
+    "genre": "七言绝句",
+    "url": "https://www.gushiwen.cn/shiwenv_0ed243d8b383.aspx",
+    "imagery": [
+      "花",
+      "桃",
+      "月",
+      "山",
+      "春"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "花",
+        "桃",
+        "月",
+        "山",
+        "春"
+      ],
+      "imagery_counts": {
+        "月": 1,
+        "山": 1,
+        "花": 2,
+        "桃": 2,
+        "春": 1,
+        "恨": 1,
+        "归": 1
+      },
+      "main_categories": [
+        "植物",
+        "时间",
+        "情感相关"
+      ],
+      "category_counts": {
+        "天文": 1,
+        "地理": 1,
+        "植物": 4,
+        "时间": 2,
+        "情感相关": 2
+      }
+    },
+    "main_emotions": [
+      "山水田园",
+      "思乡怀人",
+      "感慨伤怀"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "山水田园",
+        "思乡怀人",
+        "感慨伤怀"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 1,
+        "壮志豪情": 0,
+        "感慨伤怀": 1,
+        "闲适愉悦": 0,
+        "山水田园": 2,
+        "边塞战争": 0,
+        "咏史怀古": 1,
+        "爱情婚姻": 0
+      },
+      "valid_emotions": {
+        "思乡怀人": 1,
+        "感慨伤怀": 1,
+        "山水田园": 2,
+        "咏史怀古": 1
+      },
+      "emotion_keywords": {
+        "思乡怀人": {
+          "归": 1
+        },
+        "感慨伤怀": {
+          "恨": 1
+        },
+        "山水田园": {
+          "山": 1,
+          "林": 1
+        },
+        "咏史怀古": {
+          "盛": 1
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  },
+  {
+    "title": "暮江吟",
+    "author": "白居易",
+    "dynasty": "唐代",
+    "content": "一道残阳铺水中，半江瑟瑟半江红。可怜九月初三夜，露似真珠月似弓。",
+    "genre": "七言绝句",
+    "url": "https://www.gushiwen.cn/shiwenv_711771c1f46e.aspx",
+    "imagery": [
+      "江",
+      "月",
+      "露",
+      "水",
+      "夜"
+    ],
+    "imagery_details": {
+      "main_imagery": [
+        "江",
+        "月",
+        "露",
+        "水",
+        "夜"
+      ],
+      "imagery_counts": {
+        "月": 2,
+        "露": 1,
+        "水": 1,
+        "江": 3,
+        "夜": 1,
+        "暮": 1
+      },
+      "main_categories": [
+        "地理",
+        "时间",
+        "天文"
+      ],
+      "category_counts": {
+        "天文": 3,
+        "地理": 4,
+        "时间": 4
+      }
+    },
+    "main_emotions": [
+      "山水田园",
+      "边塞战争"
+    ],
+    "emotion_details": {
+      "main_emotions": [
+        "山水田园",
+        "边塞战争"
+      ],
+      "emotion_scores": {
+        "思乡怀人": 0,
+        "壮志豪情": 0,
+        "感慨伤怀": 0,
+        "闲适愉悦": 0,
+        "山水田园": 1,
+        "边塞战争": 1,
+        "咏史怀古": 0,
+        "爱情婚姻": 0
+      },
+      "valid_emotions": {
+        "山水田园": 1,
+        "边塞战争": 1
+      },
+      "emotion_keywords": {
+        "山水田园": {
+          "水": 1
+        },
+        "边塞战争": {
+          "弓": 1
+        }
+      },
+      "has_strong_intensity": false,
+      "has_weak_intensity": false
+    }
+  }
+]

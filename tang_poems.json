@@ -1,0 +1,162 @@
+[
+    {
+        "title": "静夜思",
+        "author": "李白",
+        "dynasty": "唐代",
+        "content": "床前明月光，疑是地上霜。举头望明月，低头思故乡。",
+        "genre": "五言绝句",
+        "url": "https://www.gushiwen.cn/shiwenv_9b8e95f39c0a.aspx"
+    },
+    {
+        "title": "望庐山瀑布",
+        "author": "李白",
+        "dynasty": "唐代",
+        "content": "日照香炉生紫烟，遥看瀑布挂前川。飞流直下三千尺，疑是银河落九天。",
+        "genre": "七言绝句",
+        "url": "https://www.gushiwen.cn/shiwenv_653a968147a5.aspx"
+    },
+    {
+        "title": "黄鹤楼送孟浩然之广陵",
+        "author": "李白",
+        "dynasty": "唐代",
+        "content": "故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流。",
+        "genre": "七言绝句",
+        "url": "https://www.gushiwen.cn/shiwenv_2f74d036a3be.aspx"
+    },
+    {
+        "title": "望天门山",
+        "author": "李白",
+        "dynasty": "唐代",
+        "content": "天门中断楚江开，碧水东流至此回。两岸青山相对出，孤帆一片日边来。",
+        "genre": "七言绝句",
+        "url": "https://www.gushiwen.cn/shiwenv_7d404379a10a.aspx"
+    },
+    {
+        "title": "春望",
+        "author": "杜甫",
+        "dynasty": "唐代",
+        "content": "国破山河在，城春草木深。感时花溅泪，恨别鸟惊心。烽火连三月，家书抵万金。白头搔更短，浑欲不胜簪。",
+        "genre": "五言律诗",
+        "url": "https://www.gushiwen.cn/shiwenv_7af80f457745.aspx"
+    },
+    {
+        "title": "登高",
+        "author": "杜甫",
+        "dynasty": "唐代",
+        "content": "风急天高猿啸哀，渚清沙白鸟飞回。无边落木萧萧下，不尽长江滚滚来。万里悲秋常作客，百年多病独登台。艰难苦恨繁霜鬓，潦倒新停浊酒杯。",
+        "genre": "七言律诗",
+        "url": "https://www.gushiwen.cn/shiwenv_24c3b3a831a7.aspx"
+    },
+    {
+        "title": "绝句",
+        "author": "杜甫",
+        "dynasty": "唐代",
+        "content": "两个黄鹂鸣翠柳，一行白鹭上青天。窗含西岭千秋雪，门泊东吴万里船。",
+        "genre": "七言绝句",
+        "url": "https://www.gushiwen.cn/shiwenv_1e32f9115c1d.aspx"
+    },
+    {
+        "title": "赠汪伦",
+        "author": "李白",
+        "dynasty": "唐代",
+        "content": "李白乘舟将欲行，忽闻岸上踏歌声。桃花潭水深千尺，不及汪伦送我情。",
+        "genre": "七言绝句",
+        "url": "https://www.gushiwen.cn/shiwenv_f59a8c858d2c.aspx"
+    },
+    {
+        "title": "清明",
+        "author": "杜牧",
+        "dynasty": "唐代",
+        "content": "清明时节雨纷纷，路上行人欲断魂。借问酒家何处有？牧童遥指杏花村。",
+        "genre": "七言绝句",
+        "url": "https://www.gushiwen.cn/shiwenv_9d2fc3509ee3.aspx"
+    },
+    {
+        "title": "赤壁",
+        "author": "杜牧",
+        "dynasty": "唐代",
+        "content": "折戟沉沙铁未销，自将磨洗认前朝。东风不与周郎便，铜雀春深锁二乔。",
+        "genre": "七言绝句",
+        "url": "https://www.gushiwen.cn/shiwenv_a637dd08497e.aspx"
+    },
+    {
+        "title": "山居秋暝",
+        "author": "王维",
+        "dynasty": "唐代",
+        "content": "空山新雨后，天气晚来秋。明月松间照，清泉石上流。竹喧归浣女，莲动下渔舟。随意春芳歇，王孙自可留。",
+        "genre": "五言律诗",
+        "url": "https://www.gushiwen.cn/shiwenv_790f29c68f13.aspx"
+    },
+    {
+        "title": "使至塞上",
+        "author": "王维",
+        "dynasty": "唐代",
+        "content": "单车欲问边，属国过居延。征蓬出汉塞，归雁入胡天。大漠孤烟直，长河落日圆。萧关逢候骑，都护在燕然。",
+        "genre": "五言律诗",
+        "url": "https://www.gushiwen.cn/shiwenv_f2205bf8b413.aspx"
+    },
+    {
+        "title": "九月九日忆山东兄弟",
+        "author": "王维",
+        "dynasty": "唐代",
+        "content": "独在异乡为异客，每逢佳节倍思亲。遥知兄弟登高处，遍插茱萸少一人。",
+        "genre": "七言绝句",
+        "url": "https://www.gushiwen.cn/shiwenv_40015222e381.aspx"
+    },
+    {
+        "title": "送元二使安西",
+        "author": "王维",
+        "dynasty": "唐代",
+        "content": "渭城朝雨浥轻尘，客舍青青柳色新。劝君更尽一杯酒，西出阳关无故人。",
+        "genre": "七言绝句",
+        "url": "https://www.gushiwen.cn/shiwenv_a136b61d6376.aspx"
+    },
+    {
+        "title": "早发白帝城",
+        "author": "李白",
+        "dynasty": "唐代",
+        "content": "朝辞白帝彩云间，千里江陵一日还。两岸猿声啼不住，轻舟已过万重山。",
+        "genre": "七言绝句",
+        "url": "https://www.gushiwen.cn/shiwenv_21d0d83ba99a.aspx"
+    },
+    {
+        "title": "望洞庭",
+        "author": "刘禹锡",
+        "dynasty": "唐代",
+        "content": "湖光秋月两相和，潭面无风镜未磨。遥望洞庭山水翠，白银盘里一青螺。",
+        "genre": "七言绝句",
+        "url": "https://www.gushiwen.cn/shiwenv_22cf6a232b37.aspx"
+    },
+    {
+        "title": "乌衣巷",
+        "author": "刘禹锡",
+        "dynasty": "唐代",
+        "content": "朱雀桥边野草花，乌衣巷口夕阳斜。旧时王谢堂前燕，飞入寻常百姓家。",
+        "genre": "七言绝句",
+        "url": "https://www.gushiwen.cn/shiwenv_4c09b613786d.aspx"
+    },
+    {
+        "title": "赋得古原草送别",
+        "author": "白居易",
+        "dynasty": "唐代",
+        "content": "离离原上草，一岁一枯荣。野火烧不尽，春风吹又生。远芳侵古道，晴翠接荒城。又送王孙去，萋萋满别情。",
+        "genre": "五言律诗",
+        "url": "https://www.gushiwen.cn/shiwenv_4e8b509c7f04.aspx"
+    },
+    {
+        "title": "大林寺桃花",
+        "author": "白居易",
+        "dynasty": "唐代",
+        "content": "人间四月芳菲尽，山寺桃花始盛开。长恨春归无觅处，不知转入此中来。",
+        "genre": "七言绝句",
+        "url": "https://www.gushiwen.cn/shiwenv_0ed243d8b383.aspx"
+    },
+    {
+        "title": "暮江吟",
+        "author": "白居易",
+        "dynasty": "唐代",
+        "content": "一道残阳铺水中，半江瑟瑟半江红。可怜九月初三夜，露似真珠月似弓。",
+        "genre": "七言绝句",
+        "url": "https://www.gushiwen.cn/shiwenv_711771c1f46e.aspx"
+    }
+]
